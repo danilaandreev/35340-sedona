@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Данила Андреев](https://up.htmlacademy.ru/htmlcss/22/user/35340).
-* Наставник: `Неизвестно`.
+* Наставник: [Владислав Балабанович](https://htmlacademy.ru/profile/balabanovich).
 
 ---
 
